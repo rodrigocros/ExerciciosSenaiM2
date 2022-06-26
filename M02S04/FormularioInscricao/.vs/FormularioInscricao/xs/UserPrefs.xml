@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3EFC382C-005F-4E20-B21C-15B7D4900EAA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FichaInscricaoPublica.cs">
+    <Files>
+      <File FileName="Program.cs" Line="27" Column="6" />
+      <File FileName="FichaInscricaoPublica.cs" Line="26" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormularioInscricao" expanded="True">
+            <Node name="FormularioInscricao" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyMacID" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FormularioInscricao PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

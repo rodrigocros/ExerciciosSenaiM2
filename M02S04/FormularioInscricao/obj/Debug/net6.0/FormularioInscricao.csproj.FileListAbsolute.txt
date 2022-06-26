@@ -1,0 +1,15 @@
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/bin/Debug/net6.0/FormularioInscricao
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/bin/Debug/net6.0/FormularioInscricao.deps.json
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/bin/Debug/net6.0/FormularioInscricao.runtimeconfig.json
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/bin/Debug/net6.0/FormularioInscricao.dll
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/bin/Debug/net6.0/FormularioInscricao.pdb
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/obj/Debug/net6.0/FormularioInscricao.csproj.AssemblyReference.cache
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/obj/Debug/net6.0/FormularioInscricao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/obj/Debug/net6.0/FormularioInscricao.AssemblyInfoInputs.cache
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/obj/Debug/net6.0/FormularioInscricao.AssemblyInfo.cs
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/obj/Debug/net6.0/FormularioInscricao.csproj.CoreCompileInputs.cache
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/obj/Debug/net6.0/FormularioInscricao.dll
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/obj/Debug/net6.0/refint/FormularioInscricao.dll
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/obj/Debug/net6.0/FormularioInscricao.pdb
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/obj/Debug/net6.0/FormularioInscricao.genruntimeconfig.cache
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S04/FormularioInscricao/obj/Debug/net6.0/ref/FormularioInscricao.dll
