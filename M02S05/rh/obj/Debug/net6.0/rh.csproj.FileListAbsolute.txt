@@ -1,0 +1,15 @@
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/bin/Debug/net6.0/rh
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/bin/Debug/net6.0/rh.deps.json
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/bin/Debug/net6.0/rh.runtimeconfig.json
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/bin/Debug/net6.0/rh.dll
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/bin/Debug/net6.0/rh.pdb
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/obj/Debug/net6.0/rh.csproj.AssemblyReference.cache
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/obj/Debug/net6.0/rh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/obj/Debug/net6.0/rh.AssemblyInfoInputs.cache
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/obj/Debug/net6.0/rh.AssemblyInfo.cs
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/obj/Debug/net6.0/rh.csproj.CoreCompileInputs.cache
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/obj/Debug/net6.0/rh.dll
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/obj/Debug/net6.0/refint/rh.dll
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/obj/Debug/net6.0/rh.pdb
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/obj/Debug/net6.0/rh.genruntimeconfig.cache
+/Users/rodrigocostadarosa/Desktop/Github/ExerciciosSenaiM2/M02S05/rh/obj/Debug/net6.0/ref/rh.dll
